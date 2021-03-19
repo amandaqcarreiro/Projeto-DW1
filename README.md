@@ -1,4 +1,5 @@
 # Projeto-DW1
+<<<<<<< HEAD
 
 Amanda Queiroz Carreiro SP3040836<br>
 Marcus Vinicius SPXXXXXXX
@@ -23,3 +24,5 @@ Os links a seguir são das telas que foram encontradas problemas de usabilidade 
 <p>Experiências dos Usuários: difícil navegação no sistema;</p>
 <p>Compatibilidade: não há responsividade para diferentes tamanhos de tela;</p>
 <p>Navegação Visível, Track State: navegação "invisível" para funcionalidades essenciais, como por exemplo onde fica o login.</p>
+=======
+>>>>>>> e04f32fc2a45b107f773b2ce14d8547d10af553a
