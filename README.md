@@ -34,10 +34,10 @@ Os links a seguir juntamente com as respectivas imagens são das telas que foram
 <hr>
 <h2>Problemas de usabilidade encontrados</h2>
 <p>Capacidade de Leitura: Tamanho da fonte muito pequena, principalmente na tela de Fretamento;</p>
-<p>Agrupamento e distinção por localização: Muita informação agrupada na tela inicial;</p>
+<p>Densidade de informação: Muita informação agrupada na tela inicial;</p>
 <p>Experiências dos Usuários: Difícil navegação no sistema;</p>
 <p>Compatibilidade: Não há responsividade para diferentes tamanhos de tela;</p>
-<p>Navegação Visível, Track State: Navegação "invisível" para funcionalidades essenciais, como por exemplo logar no sistema.</p>
+<p>Ações minímas: Para o usuário encontrar o login é preciso entrar na página passagens, colocando na tela inicial reduz tempo de procura e agiliza a ação</p>
 
 <hr>
 <h2>Correções</h2>
