@@ -9,7 +9,7 @@ O site escolhido foi o da empresa de ônibus <a href="http://www.expressodeprata
 
 <hr>
 
-Os links a seguir justamente com as respectivas imagens são das telas que foram encontrados problemas de usabilidade e que foram corrigidas: 
+Os links a seguir juntamente com as respectivas imagens são das telas que foram encontrados problemas de usabilidade e que foram corrigidas: 
 
 <p><a href="http://www.expressodeprata.com.br/">Home - Página Inicial</a></p>
 <img src="images/home1.JPG">
