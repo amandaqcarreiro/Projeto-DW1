@@ -33,16 +33,16 @@ Os links a seguir justamente com as respectivas imagens são das telas que foram
 
 <hr>
 <h2>Problemas de usabilidade encontrados</h2>
-<p>Capacidade de Leitura: tamanho da fonte muito pequena, principalmente na tela de Fretamento;</p>
-<p>Agrupamento e distinção por locaçização: Muita informação agrupada na tela inicial.</p>
-<p>Experiências dos Usuários: difícil navegação no sistema;</p>
-<p>Compatibilidade: não há responsividade para diferentes tamanhos de tela;</p>
-<p>Navegação Visível, Track State: navegação "invisível" para funcionalidades essenciais, como por exemplo onde fica o login.</p>
+<p>Capacidade de Leitura: Tamanho da fonte muito pequena, principalmente na tela de Fretamento;</p>
+<p>Agrupamento e distinção por localização: Muita informação agrupada na tela inicial;</p>
+<p>Experiências dos Usuários: Difícil navegação no sistema;</p>
+<p>Compatibilidade: Não há responsividade para diferentes tamanhos de tela;</p>
+<p>Navegação Visível, Track State: Navegação "invisível" para funcionalidades essenciais, como por exemplo logar no sistema.</p>
 
 <hr>
 <h2>Correções</h2>
 <p><a href="index.html">Home - Página Inicial</a></p>
 <p><a href="fretamento.html">Fretamento</a></p>
 <p><a href="sobre.html">Sobre</a></p>
-<p><a ref="login.html">Acessar sua conta</a></p>
+<p><a href="login.html">Acessar sua conta</a></p>
 <p><a href="mapadosite.html">Mapa do Site</a></p>
