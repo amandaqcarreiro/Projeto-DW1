@@ -309,7 +309,7 @@ form input[type=password]:focus{
 }
 
 a:hover{
-  color: gray;
+  color: red;
   text-decoration: none;
 }
 
