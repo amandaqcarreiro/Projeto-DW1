@@ -37,7 +37,7 @@ Os links a seguir juntamente com as respectivas imagens são das telas que foram
 <p>Densidade de informação: Muita informação agrupada na tela inicial;</p>
 <p>Experiências dos Usuários: Difícil navegação no sistema;</p>
 <p>Compatibilidade: Não há responsividade para diferentes tamanhos de tela;</p>
-<p>Ações minímas: Para o usuário encontrar o login é preciso entrar na página passagens, colocando na tela inicial reduz tempo de procura e agiliza a ação</p>
+<p>Ações minímas: Acessar sua conta está presente somente na tela de passagens online, colocando em todas as telas reduz tempo de procura do usuário e torna mais rápida a ação.</p>
 
 <hr>
 <h2>Correções</h2>
