@@ -1,7 +1,7 @@
 # Projeto-DW1
 
 Amanda Queiroz Carreiro SP3040836<br>
-Marcus Vinicius SP3033279
+Marcus Vinicius Rodrigues Dos Santos SP3033279
 
 Projeto da disciplina de Desenvolvimento WEB I do Instituto Federal de São Paulo, com a finalidade de corrigir  problemas de usabilidade de um site segundo a norma ISO 9241-11.
 
@@ -33,7 +33,7 @@ Os links a seguir juntamente com as respectivas imagens são das telas que foram
 
 <hr>
 <h2>Problemas de usabilidade encontrados</h2>
-<p>Capacidade de Leitura: Tamanho da fonte muito pequena, principalmente na tela de Fretamento;</p>
+<p>Capacidade de Leitura: Tamanho da fonte muito pequena, principalmente na tela sobre;</p>
 <p>Densidade de informação: Muita informação agrupada na tela inicial;</p>
 <p>Experiências dos Usuários: Difícil navegação no sistema;</p>
 <p>Compatibilidade: Não há responsividade para diferentes tamanhos de tela;</p>
